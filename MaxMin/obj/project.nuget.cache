@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WfEljBQ4g1F6mBJcrgmtwWfJAkoCOIGSA/KCTerJwiTb4mhRlZryNnc8vxgQXb6aHFCvpBKLmdvHa/3r9TMe9Q==",
+  "dgSpecHash": "K/3yNyIw2smPTDD+JwYIAmkGoU4uiMgz0U3YBjHnG2H1EygTF37K2QH7K87vAjgl6aI3MZ7x6zMhdha35oI4nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\ConsoleApp1\\MaxMin.csproj",
+  "projectFilePath": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\MaxMin\\MaxMin.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

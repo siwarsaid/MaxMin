@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\ConsoleApp1\\MaxMin.csproj",
+      "projectUniqueName": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\MaxMin\\MaxMin.csproj",
       "projectName": "MaxMin",
-      "projectPath": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\ConsoleApp1\\MaxMin.csproj",
+      "projectPath": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\MaxMin\\MaxMin.csproj",
       "packagesPath": "C:\\Users\\Siwar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Siwar\\formation\\QuetesC#\\MaxMin\\MaxMin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
